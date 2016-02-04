@@ -1,15 +1,18 @@
 /* add custom styles */
 body{
-  font-size: 20px;
+  min-height: 100%;
+  font-size: 2em;
   margin: 0 auto;
   padding: 0;
   background-color: slategrey;
   max-width: 100%;
 }
 h1{
+  font-size: 3.5em;
   color: white;
 }
 h3{
+  font-size: 2.5em;
   margin-left: 3%;
 }
 .row, .container-fluid{
@@ -55,7 +58,7 @@ h3{
   color: white;
 }
 #map-canvas{
-  min-height: 500px;
+  min-height: 700px;
   max-width: 100%;
 }
 #boutiquesright a{
@@ -77,5 +80,5 @@ h3{
 
 footer {
   background-color: #474747;
-  color: #fff
+  color: #fff;
 }
