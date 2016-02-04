@@ -7,7 +7,7 @@ body{
   max-width: 100%;
 }
 h1{
-  color: #e68900;
+  color: white;
 }
 h3{
   margin-left: 3%;
@@ -67,6 +67,12 @@ h3{
 #closeStores li{
   margin: 10px;
   color: white; 
+}
+.about{
+  margin-left: 3%;
+}
+.logo{
+  max-width: 50%;
 }
 
 footer {
