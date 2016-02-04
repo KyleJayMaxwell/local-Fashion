@@ -1,19 +1,25 @@
 /* add custom styles */
 body{
   min-height: 100%;
-  font-size: 2em;
+  font-size: 2.5rem;
   margin: 0 auto;
   padding: 0;
   background-color: slategrey;
   max-width: 100%;
 }
 h1{
-  font-size: 3.5em;
+  font-size: 6rem;
   color: white;
 }
+h2{
+  font-size: 5rem;
+}
 h3{
-  font-size: 2.5em;
+  font-size: 4rem;
   margin-left: 3%;
+}
+.navbar-brand{
+  font-size: 2.5rem;
 }
 .row, .container-fluid{
   margin: 0;
@@ -75,7 +81,7 @@ h3{
   margin-left: 3%;
 }
 .logo{
-  max-width: 50%;
+  max-width: 70%;
 }
 
 footer {
