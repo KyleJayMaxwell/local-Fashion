@@ -8,14 +8,14 @@ body{
   max-width: 100%;
 }
 h1{
-  font-size: 6rem;
+  font-size: 6.5rem;
   color: white;
 }
 h2{
-  font-size: 5rem;
+  font-size: 5.5rem;
 }
 h3{
-  font-size: 4rem;
+  font-size: 4.5rem;
   margin-left: 3%;
 }
 .navbar-brand{
@@ -81,7 +81,7 @@ h3{
   margin-left: 3%;
 }
 .logo{
-  max-width: 70%;
+  max-width: 50%;
 }
 
 footer {
