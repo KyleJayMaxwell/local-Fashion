@@ -1,0 +1,75 @@
+/* add custom styles */
+body{
+  font-size: 20px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: slategrey;
+  max-width: 100%;
+}
+h1{
+  color: #e68900;
+}
+h3{
+  margin-left: 3%;
+}
+.row, .container-fluid{
+  margin: 0;
+  padding: 0;
+}
+.info{
+  list-style: none;
+  margin-left: 3%;
+  color: white;
+}
+.center {
+  text-align: center;
+}
+.none {
+  list-style: none;
+}
+.no-padding{
+  padding: 0;
+}
+.center-vert{
+  text-align: center;
+  vertical-align: middle;
+  line-height: 300px;
+}
+.margin-bottom{
+  margin-bottom: 2%;
+}
+.no-margin{
+  margin: 0 auto;
+}
+.imgBox1{
+  min-height: 300px;
+  border: 1px solid black;
+  background-image: url(http://bgfons.com/upload/brick_texture3334.jpg);
+}
+.imgBox2{
+  min-height: 300px;
+  border: 1px solid black;
+  background-image: url(http://www.panicposters.com/media/catalog/product/cache/1/image/f63dc5ec28f3175f8a7f615bd217eb71/g/n/gn0430-world-map-antique-style.jpg);
+}
+.imgBox2 a, .imgBox1 a {
+  color: white;
+}
+#map-canvas{
+  min-height: 500px;
+  max-width: 100%;
+}
+#boutiquesright a{
+  color: #e68900;
+}
+#boutiquesleft a{
+  color: #e68900;
+}
+#closeStores li{
+  margin: 10px;
+  color: white; 
+}
+
+footer {
+  background-color: #474747;
+  color: #fff
+}
